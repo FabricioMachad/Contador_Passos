@@ -12,6 +12,8 @@ Interface com exibição de progresso..
 Estrutura do Projeto
 lib/ — Código fonte principal do aplicativo.
 
+O projeto segue o padrão estrutual MVVM(Model-View-ViewModel))
+
 pubspec.yaml — Configuração de dependências do Flutter.
 
 Observações
