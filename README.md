@@ -1,20 +1,20 @@
 # Contador_Passos
 Trabalho Final da Disciplina de Mobile 2
 
-Sobre
+# Sobre
 Criado por Fabricio Machado, Francisco Arteche e Jean Luca Cariolato, Contador_Passos é um aplicativo desenvolvido em Flutter que funciona como contador de passos.
 
-Funcionalidades
+# Funcionalidades
 Contagem de passos em tempo real.
 
 Interface com exibição de progresso..
 
-Estrutura do Projeto
+# Estrutura do Projeto
 lib/ — Código fonte principal do aplicativo.
 
 O projeto segue o padrão estrutual MVVM(Model-View-ViewModel))
 
 pubspec.yaml — Configuração de dependências do Flutter.
 
-Observações
+# Observações
 O aplicativo foi testado em dispositivos Android.
